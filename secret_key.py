@@ -1,0 +1,2 @@
+openapi_key = "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"
+GOOGLE_API_KEY = "AIzaSyDzL0ogpHlRuxYYBH6okj1EY5IPnBuh25c"
